@@ -1,4 +1,4 @@
-# Awesome-GameTechArticles
+# Awesome-GameDev
 本仓库用于整理一些优秀的游戏开发资料。
 
 
