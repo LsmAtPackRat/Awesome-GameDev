@@ -13,5 +13,5 @@
 ### 渲染：
 
 - [没有人告诉你有关显卡落后1帧后的事情](http://gad.qq.com/program/translateview/7213977)
-- [Introduction to Networked Physics : Three ways to network a physics simulation](https://gafferongames.com/post/introduction_to_networked_physics/)：⭐⭐⭐⭐⭐
+- [Introduction to Networked Physics : Three ways to network a physics simulation](https://gafferongames.com/post/introduction_to_networked_physics/)：⭐⭐⭐⭐⭐，[Glenn Fiedler](https://gafferongames.com/about)写的网络物理同步的系列博客的第一篇。讲解了deterministic lockstep，snapshot interpolation，state synchronization这三种同步技术。
 - 
