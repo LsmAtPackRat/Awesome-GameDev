@@ -13,4 +13,5 @@
 ### 渲染：
 
 - [没有人告诉你有关显卡落后1帧后的事情](http://gad.qq.com/program/translateview/7213977)
-- [Deterministic Lockstep](https://gafferongames.com/post/deterministic_lockstep/)：⭐⭐⭐⭐⭐
+- [Introduction to Networked Physics : Three ways to network a physics simulation](https://gafferongames.com/post/introduction_to_networked_physics/)：⭐⭐⭐⭐⭐
+- 
