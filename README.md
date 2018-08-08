@@ -5,7 +5,7 @@
 
 ### 框架
 
-- [《守望先锋》架构设计与网络同步  -- GDC2017 精品分享实录](http://gad.qq.com/article/detail/28682)：⭐⭐⭐⭐⭐
+- [《守望先锋》架构设计与网络同步](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650592121&idx=2&sn=3ad22849eedca5f7a4ad6d97e4ef9d1f&chksm=8796c284b0e14b9265b4c86ed6726d7bd6cfa4f9fd11f88d1bb11ca00fe6b38ae31fb6564651&scene=21#wechat_redirect)：⭐⭐⭐⭐⭐
 - [《守望先锋》中的网络脚本化的武器和技能系统](http://gad.qq.com/article/detail/28219)
 - 
 
@@ -24,5 +24,5 @@
 - [没有人告诉你有关显卡落后1帧后的事情](http://gad.qq.com/program/translateview/7213977)
 - [一篇光线追踪的入门](https://zhuanlan.zhihu.com/p/41269520)：⭐⭐⭐⭐，洛城在知乎上的文章。
 - [卡通渲染及其相关技术](https://zhuanlan.zhihu.com/p/26409746)：⭐⭐⭐⭐，洛城在知乎上的文章。
-- 
+- [Unity 2D 动态阴影怎么实现](https://zhuanlan.zhihu.com/p/30877199)：⭐⭐⭐⭐
 
