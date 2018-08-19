@@ -43,4 +43,6 @@
 - [一篇光线追踪的入门](https://zhuanlan.zhihu.com/p/41269520)：⭐⭐⭐⭐，洛城在知乎上的文章。
 - [卡通渲染及其相关技术](https://zhuanlan.zhihu.com/p/26409746)：⭐⭐⭐⭐，洛城在知乎上的文章。
 - [Unity 2D 动态阴影怎么实现](https://zhuanlan.zhihu.com/p/30877199)：⭐⭐⭐⭐
+- [基于Flash3D的粒子系统实现](http://www.kidsang.com/archives/715#more-715)：⭐⭐，这篇文章提供了一些粒子系统的实现思路。
+- 
 
