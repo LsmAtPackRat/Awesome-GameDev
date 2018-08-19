@@ -7,6 +7,7 @@
 
 - [《守望先锋》架构设计与网络同步](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650592121&idx=2&sn=3ad22849eedca5f7a4ad6d97e4ef9d1f&chksm=8796c284b0e14b9265b4c86ed6726d7bd6cfa4f9fd11f88d1bb11ca00fe6b38ae31fb6564651&scene=21#wechat_redirect)：⭐⭐⭐⭐⭐，Tim Ford在GDC2017上的演讲，介绍了ECS框架以及《守望先锋》的预表现层技术。
 - [《守望先锋》中的网络脚本化的武器和技能系统](http://gad.qq.com/article/detail/28219)
+- [浅谈《守望先锋》中的 ECS 构架](https://blog.codingnow.com/2017/06/overwatch_ecs.html)：⭐⭐⭐⭐，云风Blog谈及对《守望先锋》ECS框架的理解。
 - 
 
 
