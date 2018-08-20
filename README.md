@@ -3,12 +3,16 @@
 
 
 
+
+
 ### 框架
 
 - [《守望先锋》架构设计与网络同步](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650592121&idx=2&sn=3ad22849eedca5f7a4ad6d97e4ef9d1f&chksm=8796c284b0e14b9265b4c86ed6726d7bd6cfa4f9fd11f88d1bb11ca00fe6b38ae31fb6564651&scene=21#wechat_redirect)：⭐⭐⭐⭐⭐，Tim Ford在GDC2017上的演讲，介绍了ECS框架以及《守望先锋》的预表现层技术。
 - [《守望先锋》中的网络脚本化的武器和技能系统](http://gad.qq.com/article/detail/28219)
 - [浅谈《守望先锋》中的 ECS 构架](https://blog.codingnow.com/2017/06/overwatch_ecs.html)：⭐⭐⭐⭐，云风Blog谈及对《守望先锋》ECS框架的理解。
 - 
+
+
 
 
 
@@ -26,6 +30,8 @@
 
 
 
+
+
 ### 网络同步
 
 - [从《王者荣耀》谈游戏的帧同步](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650595000&idx=1&sn=a5dcf715bbb05974b83c0a46c83931cd&chksm=8796cf45b0e1465308c925b6e6bc20ae9eea51b055b83eeea1b5eaf768eba3745f5cfe7695a0&mpshare=1&scene=24&srcid=0908BufMWDPsTYCHRwb8Zz9O#rd)：⭐⭐⭐
@@ -34,6 +40,8 @@
 - [Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)：⭐⭐⭐⭐⭐，Valve的延迟补偿技术的一篇经典资料（Source engine）。
 - [I-Shot-You-First-Networking](https://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking)：一个GDC VAULT的一个讲解同步技术的视频。
 - 
+
+
 
 
 
@@ -46,3 +54,9 @@
 - [基于Flash3D的粒子系统实现](http://www.kidsang.com/archives/715#more-715)：⭐⭐，这篇文章提供了一些粒子系统的实现思路。
 - 
 
+
+
+### 语言
+
+- [A No-Frills Introduction to Lua 5.1 VM Instructions](http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf)：⭐⭐⭐⭐，Lua 5.1 VM原理解析。
+- 
