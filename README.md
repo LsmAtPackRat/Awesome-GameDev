@@ -52,3 +52,11 @@
 
 - [A No-Frills Introduction to Lua 5.1 VM Instructions](http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf)：⭐⭐⭐⭐，Lua 5.1 VM原理解析。
 - 
+
+
+
+### 数据结构
+
+- [Pitfalls of Object-Oriented Programming](https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf)：⭐⭐⭐⭐，讲解如何设计缓存友好的数据结构。
+- [Data-Oriented design](http://gamesfromwithin.com/category/data-oriented-design)：⭐⭐⭐⭐，在游戏中设计缓存友好的数据结构（需翻墙）。
+- 
