@@ -48,7 +48,7 @@
 
 
 
-### 语言
+### 运行时/虚拟机
 
 - [A No-Frills Introduction to Lua 5.1 VM Instructions](http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf)：⭐⭐⭐⭐，Lua 5.1 VM原理解析。
 - 
