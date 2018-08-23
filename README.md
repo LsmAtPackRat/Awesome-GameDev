@@ -22,7 +22,9 @@
 - [The Go Memory Model](https://golang.org/ref/mem)：⭐⭐⭐⭐，Go官方的Memory Model文档，使用Go开发服务器必读。
 - [Go Concurrency](https://golang.org/doc/effective_go.html#concurrency)：⭐⭐⭐⭐，Go官方的介绍Concurrency的文档，使用Go开发服务器必读。
 - [维基百科Coroutine](https://en.wikipedia.org/wiki/Coroutine)：⭐⭐⭐，Coroutine相关资料的索引。
+- [对于实时联网游戏，该如何做后台技术选型？](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650603860&idx=1&sn=ad3f5c0ced94047778c3c12edeee60dc&chksm=879710a9b0e099bf5224de600fb0ef79509c13f4eddb24a9b968e32ccb069fd257c4558ce315&scene=21#wechat_redirect)：⭐⭐，泛泛谈论了网络拓扑/协议/序列化/并发等，可以参考。
 - 
+
 
 
 
@@ -60,3 +62,23 @@
 - [Pitfalls of Object-Oriented Programming](https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf)：⭐⭐⭐⭐，讲解如何设计缓存友好的数据结构。
 - [Data-Oriented design](http://gamesfromwithin.com/category/data-oriented-design)：⭐⭐⭐⭐，在游戏中设计缓存友好的数据结构（需翻墙）。
 - 
+
+
+
+### PCG (Procedural-Content-Generation)
+
+- [这些坑别踩！游戏随机地图生成开发经验分享](https://mp.weixin.qq.com/s/BifoQTnGt31sDUMbTledaw)：⭐⭐，写的比较简单，有一些参考价值。
+- 
+
+
+
+### Game AI
+
+- 
+
+
+
+### Demo开发
+
+- 
+
