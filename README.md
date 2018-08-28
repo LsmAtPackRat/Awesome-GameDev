@@ -71,6 +71,7 @@
 ### PCG (Procedural-Content-Generation)
 
 - [这些坑别踩！游戏随机地图生成开发经验分享](https://mp.weixin.qq.com/s/BifoQTnGt31sDUMbTledaw)：⭐⭐，写的比较简单，有一些参考价值。
+- [开放世界游戏中的大地图背后有哪些实现技术？](http://gulu-dev.com/post/2014-11-16-open-world#toc_10)：⭐⭐⭐⭐，技术盘点类文章。
 - 
 
 
