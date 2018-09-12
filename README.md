@@ -11,6 +11,7 @@
 - [任务系统2.0，实现无锁的工作窃取（一）：基础](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650598248&idx=3&sn=d4ee3077c27b4732e8ab04967f2b18be&chksm=8796fa95b0e17383e8f5fda46d488443d4a795a05c9225fb076175d87366f0c3ac93135fd083&mpshare=1&scene=24&srcid=0104pzmA1YsJyx0yWpBJ1xfv#rd)：⭐⭐。
 - [如何在任务系统中实现无锁的工作窃取（二）](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650598264&idx=3&sn=8ac5d7c3451b247c90481f8648c50b3e&chksm=8796fa85b0e17393404f7bb0a4b6caf85e2635d419e832dc0cadf3f3866e15e5513c2a05271d&mpshare=1&scene=24&srcid=0104dWTbpdULQSGD0hIxovQo#rd)：⭐⭐。
 - [任务系统的核心问题（三）：如何实行无锁工作队列](https://mp.weixin.qq.com/s?__biz=MzA4MDc5OTg5MA==&mid=2650598367&idx=2&sn=d7e9ce853fb51c287d7d2409dd143f9b&chksm=8796fa22b0e173348e87ee49056c36a54c75f8844b603504c0625f114b196076e61ce0e1223c&mpshare=1&scene=24&srcid=0105xF6i3T3YzqKJck6EvrLL#rd)：⭐⭐。
+- [Are we out of memory?](http://www.swedishcoding.com/2008/08/31/are-we-out-of-memory/)：⭐⭐⭐，讲述引擎自制内存分配器的各种策略的经典博文。
 - 
 
 
